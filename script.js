@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <li>Sections include About Me, Projects, Resume, and Contact.</li>
         </ul>`,
       techStack: "HTML, CSS, JavaScript",
-      sourceCode: "https://github.com/sankrdeep/sandeep-portfolio"
+      sourceCode: "https://github.com/sandeepkr0209/Portfolio"
     }
   };
 
