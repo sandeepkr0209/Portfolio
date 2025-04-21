@@ -72,6 +72,9 @@ This portfolio is meant to be a static website, so no server-side setup is requi
 Contact
 Feel free to get in touch with me:
 
+live demo: https://portfolio-three-rho-55.vercel.app/
+
+
 Email: sankrdeep7510@gmail.com
 
 GitHub: https://github.com/your-username
